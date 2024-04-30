@@ -1,0 +1,5 @@
+[][][]Criar Characters, Comics, Series
+[][][]Ler 1 Characters, Comics, Series (id)
+[][][]Ler Characters, Comics, Series Todas
+[][][]Atualizar Characters, Comics, Series
+[][][]Deletar Characters, Comics, Series
